@@ -37,6 +37,6 @@
     "prettier": "^1.7.4"
   },
   "resolutions": {
-    "netlify-cms": "netlify/netlify-cms#master"
+    "netlify-cms": "netlify/netlify-cms#33ea7cd"
   }
 }
